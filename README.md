@@ -5,7 +5,14 @@
 
 __Меня зовут Степан, я Android разработчик. Пишу на языках программирования Java/Kotlin.__
 <br> В мае 2022 года я стал изучать программирование, язык java. В феврале 2023 устроился на первую работу Android разработчиком.
-<br> Стек технологий, которым я владею:
+<center>
+<br> Связаться со мной: 
+<a href="https://t.me/StepanWxW">
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a></center>
+
+<H5> Стек технологий, которым я владею:</H5>
+
 * Coroutines
 * Navigation fragment
 * Adapterdelegates
@@ -13,7 +20,14 @@ __Меня зовут Степан, я Android разработчик. Пишу 
 * Room
 * Koin
 
-<br> Также, я изучил смежные технологии : Firebase firestore, authorization, cloud messaging, admin, Ktor, kotlin telegram bot.
+<H5>Также, я изучил смежные технологии :</H5>
+
+* Firebase firestore
+* Firebase authorization
+* Firebase cloud messaging
+* Firebase admin
+* Ktor
+* Kotlin telegram bot.
 
 <div id="header" align="center">
 <h3>Проекты:</h3>
