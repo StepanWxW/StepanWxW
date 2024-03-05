@@ -61,7 +61,20 @@ __Меня зовут Степан, я Android разработчик. Пишу 
 <br>(ноябрь 2022)
 <br>Проект: [Разработал микросервис, реализующий REST-API с CRUD-сервисами.](https://github.com/StepanWxW/CourseModel)
 <br>Стек: Spring Boot, Spring MVC, Spring Data JPA, Flyway, Lombok, Thymeleaf, ModelMapper, APACHE POI, PostgreSQL, Hibernate, Java
-Статистика языков в репозиториях:
+
+
+<br>(январь 2024)
+<br>__Репозитории закрыты.__
+<br>Backend, Android, Chat-bot.
+<br>Чат бот для заказа шаурмы имеет 4 компонента:
+- Chat bot: kotlin-telegram-bot
+- Backend: Ktor, postgresql, exposed, coroutines.
+- Firebase
+- Android: navigation-fragment, retrofit, firebase authorization
+
+<br>Чат бот в онлайн режиме принимает заказы и передает на сервер, откуда они поступают в Android приложение в реальном времени.
+<br>Имеется система начисления и списания бонусов. Закрытие магазина по времени или по желанию клиента. Система регистрации клиента, а также запись всей статистики продаж. 
+<br>Разместил на timeweb.com, сервер на ubuntu. Купил домен и привязал, далее через Nginx получил сертификат ssl.
 
 ---
 ### Ниже спискок курсов, которые я прошел: ###
