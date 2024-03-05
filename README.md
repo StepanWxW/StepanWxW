@@ -5,13 +5,15 @@
 
 __Меня зовут Степан, я Android разработчик. Пишу на языках программирования Java/Kotlin.__
 <br> В мае 2022 года я стал изучать программирование, язык java. В феврале 2023 устроился на первую работу Android разработчиком.
-<center>
-<br> Связаться со мной: 
-<a href="https://t.me/StepanWxW">
-<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a></center>
 
-<H5> Стек технологий, которым я владею:</H5>
+<div style="text-align: center;">
+    <span style="font-size: large;">Мой telegram: </span>
+    <a href="https://t.me/StepanWxW">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+</div>
+
+<H4> Стек технологий, которым я владею:</H4>
 
 * Coroutines
 * Navigation fragment
@@ -20,7 +22,7 @@ __Меня зовут Степан, я Android разработчик. Пишу 
 * Room
 * Koin
 
-<H5>Также, я изучил смежные технологии :</H5>
+<H4>Также, я изучил смежные технологии :</H5>
 
 * Firebase firestore
 * Firebase authorization
@@ -75,3 +77,10 @@ __Меня зовут Степан, я Android разработчик. Пишу 
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StepanWxW&theme=solarized_dark)
+
+<div style="text-align: center;">
+    <span style="font-size: x-large;">Связаться со мной: </span>
+    <a href="https://t.me/StepanWxW">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+</div>
