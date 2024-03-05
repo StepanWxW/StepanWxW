@@ -7,8 +7,7 @@ __Меня зовут Степан, я Android разработчик. Пишу 
 <br> В мае 2022 года я стал изучать программирование, язык java. В феврале 2023 устроился на первую работу Android разработчиком.
 
 <div style="text-align: center;">
-    <span style="font-size: large;">Мой telegram: </span>
-    <a href="https://t.me/StepanWxW">
+    <a href="https://t.me/StepanWxW" style="display: inline-block;">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
 </div>
@@ -77,10 +76,3 @@ __Меня зовут Степан, я Android разработчик. Пишу 
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StepanWxW&theme=solarized_dark)
-
-<div style="text-align: center;">
-    <span style="font-size: x-large;">Связаться со мной: </span>
-    <a href="https://t.me/StepanWxW">
-        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-</div>
