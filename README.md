@@ -4,7 +4,6 @@
 </div>
 
 __Меня зовут Степан, я Android разработчик. Пишу на языках программирования Java/Kotlin.__
-<br> В мае 2022 года я стал изучать программирование, язык java. В феврале 2023 устроился на первую работу Android разработчиком.
 
 <div style="text-align: center;">
     <a href="https://t.me/StepanWxW" style="display: inline-block;">
@@ -20,6 +19,7 @@ __Меня зовут Степан, я Android разработчик. Пишу 
 * Retrofit
 * Room
 * Koin
+* Hilt
 
 <H4>Также, я изучил смежные технологии:</H5>
 
@@ -78,9 +78,9 @@ __Меня зовут Степан, я Android разработчик. Пишу 
 ### Ниже спискок курсов, которые я прошел: ###
 
 2023 - __Полный курс Андроид + Java с нуля (Andrey Sumin)__ udemi.com, Android
-<br>2023 - __Котлин - быстрый старт (Andrey Sumin)__ udemi.com, Kotlin
 <br>2023 - __Android профессиональный уровень (Kotlin) (Andrey Sumin)__ udemi.com, Android, Kotlin
-<br>2023 - __Android разработка - с нуля до профессионала. Полный курс (YouRa Allakhverdov)__ udemi.com, Android, Kotlin, Java
+<br>2022 - __Котлин - быстрый старт (Andrey Sumin)__ udemi.com, Kotlin
+<br>2022 - __Android разработка - с нуля до профессионала. Полный курс (YouRa Allakhverdov)__ udemi.com, Android, Kotlin, Java
 <br>2022 - __Java для начинающих (Наиль Алишев)__ udemi.com, Java
 <br>2022 - __Spring - Полный курс. Boot, Hibernate, Security, REST (Наиль Алишев)__ udemi.com, Java Backend
 
