@@ -13,8 +13,8 @@ __Меня зовут Степан, я Android разработчик. Пишу 
 
 <H4> Стек технологий, которым я владею:</H4>
 
-* Coroutines
-* Navigation fragment
+* Coroutines, Coroutines flow
+* Jetpack Navigation
 * Adapterdelegates
 * Retrofit
 * Room
@@ -36,34 +36,27 @@ __Меня зовут Степан, я Android разработчик. Пишу 
 
 ### Android, kotlin: ####
 
-(январь 2024)
 <br>Проект: [Тестовое задание от компании Shift.](https://github.com/StepanWxW/Shift)
 <br>Стек технологий: Kotlin, Coroutines, LiveData, Fragments, Clean Architecture, Retrofit, Koin.
 
-<br>(ноябрь 2023)
 <br>Проект: [Приложение с возможностью авторизации пользователя и вывода списка его платежей после успешной авторизации.](https://github.com/StepanWxW/ListPay)
 <br>Стек технологий: Kotlin, Coroutines, LiveData, Fragments, Clean Architecture, Retrofit.
 
-<br>(ноябрь 2023)
 <br>Проект: [Приложение предоставляет пользователю возможность просматривать информацию о пиццерии. Основной задание связано с UI.](https://github.com/StepanWxW/Pizza)
 <br>Стек технологий: Kotlin, Coroutines, LiveData, Room, Clean Architecture, Retrofit.
 
-<br>(сентябрь 2023)
 <br>Проект: [Мобильное приложение, которое предоставляет пользователю возможность просматривать информацию об отеле, выбирать номера и осуществлять бронирование.](https://github.com/StepanWxW/Hotel)
 <br>Стек: Koin, AdapterDelegates, Clean Architecture, Многомодульность, LiveData, Retrofit, Coroutines, Kotlin
 
 ### Backend, java: ###
 
-<br>(декабрь 2022)
 <br>Проект: [Разработал микросервис (Банк), реализующий REST-API с CRUD-сервисами.](https://github.com/StepanWxW/bankproject/tree/master/bankproject)
 <br>Стек: Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Luqiebase, Lombok, ModelMapper, PostgreSQL, Hibernate, Java
 
-<br>(ноябрь 2022)
 <br>Проект: [Разработал микросервис, реализующий REST-API с CRUD-сервисами.](https://github.com/StepanWxW/CourseModel)
 <br>Стек: Spring Boot, Spring MVC, Spring Data JPA, Flyway, Lombok, Thymeleaf, ModelMapper, APACHE POI, PostgreSQL, Hibernate, Java
 
 
-<br>(январь 2024)
 <br>__Репозитории закрыты.__
 <br>Backend, Android, Chat-bot.
 <br>Чат бот для заказа шаурмы имеет 4 компонента:
